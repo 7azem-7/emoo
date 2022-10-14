@@ -256,7 +256,7 @@ section{
 
 .infosp{
   background: #081158;
-  width: 16%;
+  width: 15%;
   border-radius: 10px;
   padding-bottom: 3px;
 }
@@ -266,7 +266,7 @@ section{
   font-size: 15px;
   font-weight: bold;
   font-family: system-ui;
-  margin-left: 16px;
+  margin-left: 11px;
   
 }
 
@@ -960,13 +960,13 @@ section{
 
   
   .info {
-    margin-left: 9px;
+    margin-left: 5px;
     margin-top: 200px;
 
   }
 
   .infosp{
-    width: 48%;
+    width: 46%;
     
   }
 
